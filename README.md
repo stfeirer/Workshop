@@ -10,19 +10,20 @@
 2. Content
 
 ## Create Webmap
-  choose basemap
-  add operational layers
-  configure fields and popups
-  set or change symbology (styling of data)
-    manual
-    smart mapping technology
-  change sharing
-    private
-    everyone
+1. choose basemap
+2. add operational layers
+3. configure fields and popups
+4. set or change symbology (styling of data)
+  * manual
+  * smart mapping technology
+5. change sharing
+    * private
+    * everyone
+
 ## Create Web Applications from Webmaps
-  choose templates
-  many to choose from
-  storymaps and storymap journals
-  Also can use other tools
-    Appstudio for ArcGIS
-    ArcGIS Collector
+  * choose templates
+  * many to choose from
+  * storymaps and storymap journals
+  * Also can use other tools
+    * Appstudio for ArcGIS
+    * ArcGIS Collector
