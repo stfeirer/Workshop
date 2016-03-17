@@ -1,4 +1,7 @@
 # Workshop
+
+![alt tag](https://cloud.githubusercontent.com/assets/12263226/13856717/be9e7c92-ec33-11e5-9062-1c3521cbbb91.jpg)
+
 ## Using ArcGIS Online and Developer Accounts to Create Web Maps and Apps
 
 * Login to http://developers.arcgis.com with your username and password
